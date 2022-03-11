@@ -22,6 +22,7 @@
   },
   "world_list": [
     "cd",
+    "tv",
     "pá",
     "aro",
     "baú",
@@ -65,6 +66,7 @@
     "lata",
     "leme",
     "lira",
+    "lixo",
     "lona",
     "luva",
     "maca",
@@ -256,6 +258,7 @@
     "cajado",
     "cálice",
     "calota",
+    "câmera",
     "camisa",
     "caneca",
     "caneta",
